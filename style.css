@@ -1,0 +1,10 @@
+body
+{
+ background-image: url(green.jpg);
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ background-size:cover;
+ color:white;
+ font-weight: bold;
+ text-align: center;
+ position: relative;
+}
